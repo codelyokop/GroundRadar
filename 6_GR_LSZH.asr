@@ -1,0 +1,343 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\CH\LSAS-LSASPackage_20201204120144-201301-0001.sct
+SECTORTITLE:LSAS-LSASPackage_20201204120144-201301-0001.sct
+Free Text:LSZH Buildings\Airside center:freetext
+Free Text:LSZH Buildings\Dock A:freetext
+Free Text:LSZH Buildings\Dock B:freetext
+Free Text:LSZH Buildings\Dock E:freetext
+Free Text:LSZH Buildings\Freight:freetext
+Free Text:LSZH Buildings\Hall 1:freetext
+Free Text:LSZH Buildings\Hall 2:freetext
+Free Text:LSZH Buildings\Hall 3:freetext
+Free Text:LSZH Buildings\Holding Bay 10:freetext
+Free Text:LSZH Buildings\Maintenance:freetext
+Free Text:LSZH Buildings\Ops centre:freetext
+Free Text:LSZH Buildings\REGA:freetext
+Free Text:LSZH Buildings\Terminal 1:freetext
+Free Text:LSZH Buildings\Terminal 2:freetext
+Free Text:LSZH Helipads\Helipad East:freetext
+Free Text:LSZH Helipads\Heliport West:freetext
+Free Text:LSZH Parkings\A02:freetext
+Free Text:LSZH Parkings\A03:freetext
+Free Text:LSZH Parkings\A04:freetext
+Free Text:LSZH Parkings\A05:freetext
+Free Text:LSZH Parkings\A07:freetext
+Free Text:LSZH Parkings\A08:freetext
+Free Text:LSZH Parkings\A09:freetext
+Free Text:LSZH Parkings\A10:freetext
+Free Text:LSZH Parkings\A11:freetext
+Free Text:LSZH Parkings\A13:freetext
+Free Text:LSZH Parkings\A15:freetext
+Free Text:LSZH Parkings\A17:freetext
+Free Text:LSZH Parkings\A42:freetext
+Free Text:LSZH Parkings\A44:freetext
+Free Text:LSZH Parkings\A46:freetext
+Free Text:LSZH Parkings\A48:freetext
+Free Text:LSZH Parkings\A49:freetext
+Free Text:LSZH Parkings\A51:freetext
+Free Text:LSZH Parkings\A57:freetext
+Free Text:LSZH Parkings\B31:freetext
+Free Text:LSZH Parkings\B32:freetext
+Free Text:LSZH Parkings\B33:freetext
+Free Text:LSZH Parkings\B34:freetext
+Free Text:LSZH Parkings\B35:freetext
+Free Text:LSZH Parkings\B36:freetext
+Free Text:LSZH Parkings\B37:freetext
+Free Text:LSZH Parkings\B38:freetext
+Free Text:LSZH Parkings\B39:freetext
+Free Text:LSZH Parkings\B41:freetext
+Free Text:LSZH Parkings\B43:freetext
+Free Text:LSZH Parkings\B45:freetext
+Free Text:LSZH Parkings\C50:freetext
+Free Text:LSZH Parkings\C51:freetext
+Free Text:LSZH Parkings\C52:freetext
+Free Text:LSZH Parkings\C53:freetext
+Free Text:LSZH Parkings\C54:freetext
+Free Text:LSZH Parkings\C55:freetext
+Free Text:LSZH Parkings\C56:freetext
+Free Text:LSZH Parkings\C57:freetext
+Free Text:LSZH Parkings\C58:freetext
+Free Text:LSZH Parkings\C59:freetext
+Free Text:LSZH Parkings\C60:freetext
+Free Text:LSZH Parkings\D01:freetext
+Free Text:LSZH Parkings\D02:freetext
+Free Text:LSZH Parkings\D03:freetext
+Free Text:LSZH Parkings\D04:freetext
+Free Text:LSZH Parkings\D05:freetext
+Free Text:LSZH Parkings\D06:freetext
+Free Text:LSZH Parkings\D07:freetext
+Free Text:LSZH Parkings\D08:freetext
+Free Text:LSZH Parkings\D09:freetext
+Free Text:LSZH Parkings\D10:freetext
+Free Text:LSZH Parkings\D11:freetext
+Free Text:LSZH Parkings\D12:freetext
+Free Text:LSZH Parkings\D13:freetext
+Free Text:LSZH Parkings\D14:freetext
+Free Text:LSZH Parkings\D15:freetext
+Free Text:LSZH Parkings\D16:freetext
+Free Text:LSZH Parkings\D17:freetext
+Free Text:LSZH Parkings\E19:freetext
+Free Text:LSZH Parkings\E20:freetext
+Free Text:LSZH Parkings\E23:freetext
+Free Text:LSZH Parkings\E26:freetext
+Free Text:LSZH Parkings\E27:freetext
+Free Text:LSZH Parkings\E32:freetext
+Free Text:LSZH Parkings\E33:freetext
+Free Text:LSZH Parkings\E34:freetext
+Free Text:LSZH Parkings\E35:freetext
+Free Text:LSZH Parkings\E36:freetext
+Free Text:LSZH Parkings\E37:freetext
+Free Text:LSZH Parkings\E42:freetext
+Free Text:LSZH Parkings\E43:freetext
+Free Text:LSZH Parkings\E44:freetext
+Free Text:LSZH Parkings\E45:freetext
+Free Text:LSZH Parkings\E46:freetext
+Free Text:LSZH Parkings\E47:freetext
+Free Text:LSZH Parkings\E48:freetext
+Free Text:LSZH Parkings\E49:freetext
+Free Text:LSZH Parkings\E50:freetext
+Free Text:LSZH Parkings\E51:freetext
+Free Text:LSZH Parkings\E52:freetext
+Free Text:LSZH Parkings\E53:freetext
+Free Text:LSZH Parkings\E54:freetext
+Free Text:LSZH Parkings\E55:freetext
+Free Text:LSZH Parkings\E56:freetext
+Free Text:LSZH Parkings\E57:freetext
+Free Text:LSZH Parkings\E58:freetext
+Free Text:LSZH Parkings\E62:freetext
+Free Text:LSZH Parkings\E64:freetext
+Free Text:LSZH Parkings\E67:freetext
+Free Text:LSZH Parkings\F72:freetext
+Free Text:LSZH Parkings\F73:freetext
+Free Text:LSZH Parkings\F74:freetext
+Free Text:LSZH Parkings\F75:freetext
+Free Text:LSZH Parkings\GA1:freetext
+Free Text:LSZH Parkings\GA2:freetext
+Free Text:LSZH Parkings\GA3:freetext
+Free Text:LSZH Parkings\GA4:freetext
+Free Text:LSZH Parkings\GA5:freetext
+Free Text:LSZH Parkings\H11:freetext
+Free Text:LSZH Parkings\H12:freetext
+Free Text:LSZH Parkings\H13:freetext
+Free Text:LSZH Parkings\H81:freetext
+Free Text:LSZH Parkings\H82:freetext
+Free Text:LSZH Parkings\H85:freetext
+Free Text:LSZH Parkings\H86:freetext
+Free Text:LSZH Parkings\H87:freetext
+Free Text:LSZH Parkings\H88:freetext
+Free Text:LSZH Parkings\I01:freetext
+Free Text:LSZH Parkings\I02:freetext
+Free Text:LSZH Parkings\I03:freetext
+Free Text:LSZH Parkings\I04:freetext
+Free Text:LSZH Parkings\I05:freetext
+Free Text:LSZH Parkings\T42:freetext
+Free Text:LSZH Parkings\T43:freetext
+Free Text:LSZH Parkings\T44:freetext
+Free Text:LSZH Parkings\T45:freetext
+Free Text:LSZH Parkings\T46:freetext
+Free Text:LSZH Parkings\T52:freetext
+Free Text:LSZH Parkings\T53:freetext
+Free Text:LSZH Parkings\T54:freetext
+Free Text:LSZH Parkings\T55:freetext
+Free Text:LSZH Parkings\T56:freetext
+Free Text:LSZH Parkings\W01:freetext
+Free Text:LSZH Parkings\W02:freetext
+Free Text:LSZH Parkings\W03:freetext
+Free Text:LSZH Parkings\W04:freetext
+Free Text:LSZH Parkings\W05:freetext
+Free Text:LSZH Parkings\W21:freetext
+Free Text:LSZH Parkings\W22:freetext
+Free Text:LSZH Parkings\W23:freetext
+Free Text:LSZH Taxiways\A:freetext
+Free Text:LSZH Taxiways\A:freetext
+Free Text:LSZH Taxiways\A:freetext
+Free Text:LSZH Taxiways\A1:freetext
+Free Text:LSZH Taxiways\A2:freetext
+Free Text:LSZH Taxiways\A4:freetext
+Free Text:LSZH Taxiways\B:freetext
+Free Text:LSZH Taxiways\B:freetext
+Free Text:LSZH Taxiways\B:freetext
+Free Text:LSZH Taxiways\B:freetext
+Free Text:LSZH Taxiways\B:freetext
+Free Text:LSZH Taxiways\B1:freetext
+Free Text:LSZH Taxiways\B9:freetext
+Free Text:LSZH Taxiways\C:freetext
+Free Text:LSZH Taxiways\C:freetext
+Free Text:LSZH Taxiways\C1:freetext
+Free Text:LSZH Taxiways\C2:freetext
+Free Text:LSZH Taxiways\C3:freetext
+Free Text:LSZH Taxiways\D:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E:freetext
+Free Text:LSZH Taxiways\E3:freetext
+Free Text:LSZH Taxiways\E4:freetext
+Free Text:LSZH Taxiways\E5:freetext
+Free Text:LSZH Taxiways\E6:freetext
+Free Text:LSZH Taxiways\E7:freetext
+Free Text:LSZH Taxiways\E8:freetext
+Free Text:LSZH Taxiways\E9:freetext
+Free Text:LSZH Taxiways\F:freetext
+Free Text:LSZH Taxiways\F:freetext
+Free Text:LSZH Taxiways\F:freetext
+Free Text:LSZH Taxiways\F:freetext
+Free Text:LSZH Taxiways\F:freetext
+Free Text:LSZH Taxiways\F:freetext
+Free Text:LSZH Taxiways\F:freetext
+Free Text:LSZH Taxiways\F:freetext
+Free Text:LSZH Taxiways\F1:freetext
+Free Text:LSZH Taxiways\F2:freetext
+Free Text:LSZH Taxiways\F3:freetext
+Free Text:LSZH Taxiways\G:freetext
+Free Text:LSZH Taxiways\G:freetext
+Free Text:LSZH Taxiways\H:freetext
+Free Text:LSZH Taxiways\H:freetext
+Free Text:LSZH Taxiways\H:freetext
+Free Text:LSZH Taxiways\H1:freetext
+Free Text:LSZH Taxiways\H2:freetext
+Free Text:LSZH Taxiways\H3:freetext
+Free Text:LSZH Taxiways\INNER:freetext
+Free Text:LSZH Taxiways\INNER:freetext
+Free Text:LSZH Taxiways\INNER:freetext
+Free Text:LSZH Taxiways\INNER:freetext
+Free Text:LSZH Taxiways\J:freetext
+Free Text:LSZH Taxiways\J:freetext
+Free Text:LSZH Taxiways\J:freetext
+Free Text:LSZH Taxiways\J:freetext
+Free Text:LSZH Taxiways\J:freetext
+Free Text:LSZH Taxiways\K:freetext
+Free Text:LSZH Taxiways\K:freetext
+Free Text:LSZH Taxiways\K:freetext
+Free Text:LSZH Taxiways\L:freetext
+Free Text:LSZH Taxiways\L:freetext
+Free Text:LSZH Taxiways\L9:freetext
+Free Text:LSZH Taxiways\LINK1:freetext
+Free Text:LSZH Taxiways\LINK2:freetext
+Free Text:LSZH Taxiways\LINK3:freetext
+Free Text:LSZH Taxiways\LINK4:freetext
+Free Text:LSZH Taxiways\LINK5:freetext
+Free Text:LSZH Taxiways\LINK6:freetext
+Free Text:LSZH Taxiways\LINK7:freetext
+Free Text:LSZH Taxiways\M:freetext
+Free Text:LSZH Taxiways\M:freetext
+Free Text:LSZH Taxiways\M:freetext
+Free Text:LSZH Taxiways\M:freetext
+Free Text:LSZH Taxiways\N:freetext
+Free Text:LSZH Taxiways\O:freetext
+Free Text:LSZH Taxiways\R:freetext
+Free Text:LSZH Taxiways\R7:freetext
+Free Text:LSZH Taxiways\R8:freetext
+Free Text:LSZH Taxiways\R8:freetext
+Free Text:LSZH Taxiways\Y:freetext
+Free Text:LSZH Taxiways\Y:freetext
+Free Text:LSZH Taxiways\Y:freetext
+Free Text:LSZH TORA\TORA-B/10 2500m:freetext
+Free Text:LSZH TORA\TORA-E 3700m:freetext
+Free Text:LSZH TORA\TORA-E3 3000m:freetext
+Free Text:LSZH TORA\TORA-G 2700m:freetext
+Free Text:LSZH TORA\TORA-G-Back 3300m:freetext
+Free Text:LSZH TORA\TORA-H2 2700m:freetext
+Free Text:LSZH TORA\TORA-H3 3300m:freetext
+Free Text:LSZH TORA\TORA-L/10 2500m:freetext
+Geo:LSZH Groundlayout Parking Area:
+Geo:LSZH Groundlayout Parkings:
+Geo:LSZH Groundlayout Stopbars:
+Geo:LSZH Groundlayout Taxiways SMR:
+Regions:LSZH CTR:polygon
+Regions:LSZH Groundlayout SMR:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:47.435265:8.522529:47.456535:8.575122
+PLUGIN:Ground Radar plugin:AirportElevation:1417
+PLUGIN:Ground Radar plugin:AirportRadius:1.9
+PLUGIN:Ground Radar plugin:GroundMode:LSZH
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:1567
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:393
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:0
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:0
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:0
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:0
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:vSMR:ActiveProfile:LSZH
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LSZH
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:AutoDeconfliction:1
+PLUGIN:vSMR:CustomCursor:0
+PLUGIN:vSMR:FontSize:12
+PLUGIN:vSMR:GndTrailsDots:0
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:PredictedTrackLength:0.500000
+PLUGIN:vSMR:PredictedTrackSpeedThreshold:20
+PLUGIN:vSMR:PredictedTrackWidth:1
+PLUGIN:vSMR:ProMode:1
+PLUGIN:vSMR:SRW1BottomRightX:2518
+PLUGIN:vSMR:SRW1BottomRightY:590
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1ExtendedLinesLength:15
+PLUGIN:vSMR:SRW1ExtendedLinesTickSpacing:1
+PLUGIN:vSMR:SRW1Filter:7500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1PredictedTrackLineLength:0.000000
+PLUGIN:vSMR:SRW1PredictedTrackLineWidth:1
+PLUGIN:vSMR:SRW1Range:50
+PLUGIN:vSMR:SRW1Rotation:0.000000
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:2077
+PLUGIN:vSMR:SRW1TopLeftY:257
+PLUGIN:vSMR:SRW1Zoom:20.000000
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2ExtendedLinesLength:15
+PLUGIN:vSMR:SRW2ExtendedLinesTickSpacing:1
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2PredictedTrackLineLength:0.000000
+PLUGIN:vSMR:SRW2PredictedTrackLineWidth:1
+PLUGIN:vSMR:SRW2Range:50
+PLUGIN:vSMR:SRW2Rotation:0.000000
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
+PLUGIN:vSMR:SRW2Zoom:20.000000

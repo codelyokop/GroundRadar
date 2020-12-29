@@ -4,7 +4,7 @@
 //Color_Background=255,255,255
 //Color_Caution=192,192,192
 
-Equip_ProMode=1
+Equip_ProMode=0
 Equip_ModeS=HLEGWQS
 Equip_NonAlt=X
 
@@ -54,3 +54,6 @@ Airport_Runway_End=34:47.44566924916576:8.556634889491043
 Airport_Runway_End=28:47.456513194057834:8.571384084945487
 
 Airport_Runway_Buffer=34:90
+Airport_Runway_Buffer=28:70
+
+Window_APP_Extensions=1
