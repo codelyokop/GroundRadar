@@ -17,3 +17,6 @@ Initial versioning release
 * IcelandAir Preffered stand
 * Eazyjet Prefered Stands
 * App extenstion lines turned on
+
+# Version 0.1.1
+* Small bugfix in stand definition for ATYP restriction
